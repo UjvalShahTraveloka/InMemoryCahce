@@ -1,0 +1,10 @@
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/bin/Debug/netcoreapp2.2/MemoryCache.deps.json
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/bin/Debug/netcoreapp2.2/MemoryCache.runtimeconfig.json
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/bin/Debug/netcoreapp2.2/MemoryCache.runtimeconfig.dev.json
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/bin/Debug/netcoreapp2.2/MemoryCache.dll
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/bin/Debug/netcoreapp2.2/MemoryCache.pdb
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/obj/Debug/netcoreapp2.2/MemoryCache.csprojAssemblyReference.cache
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/obj/Debug/netcoreapp2.2/MemoryCache.AssemblyInfoInputs.cache
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/obj/Debug/netcoreapp2.2/MemoryCache.AssemblyInfo.cs
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/obj/Debug/netcoreapp2.2/MemoryCache.dll
+/Users/ujval.shah/RiderProjects/MemoryCache/MemoryCache/obj/Debug/netcoreapp2.2/MemoryCache.pdb
