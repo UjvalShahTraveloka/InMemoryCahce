@@ -1,0 +1,10 @@
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.deps.json
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.csprojAssemblyReference.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.csproj.OrleansCodeGenInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.orleans.g.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.AssemblyInfoInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.AssemblyInfo.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/Debug/netcoreapp2.2/HelloWorld.Interfaces.pdb

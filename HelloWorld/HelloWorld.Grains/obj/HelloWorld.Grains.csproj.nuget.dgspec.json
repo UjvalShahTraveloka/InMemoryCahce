@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/HelloWorld.Grains.csproj": {}
+  },
+  "projects": {
+    "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/HelloWorld.Grains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/HelloWorld.Grains.csproj",
+        "projectName": "HelloWorld.Grains",
+        "projectPath": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/HelloWorld.Grains.csproj",
+        "packagesPath": "/Users/ujval.shah/.nuget/packages/",
+        "outputPath": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ujval.shah/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj": {
+                "projectPath": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Orleans.CodeGenerator.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Orleans.Core.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Orleans.Runtime.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
+        "projectName": "HelloWorld.Interfaces",
+        "projectPath": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/HelloWorld.Interfaces.csproj",
+        "packagesPath": "/Users/ujval.shah/.nuget/packages/",
+        "outputPath": "/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ujval.shah/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Orleans.CodeGenerator.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Orleans.Core.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

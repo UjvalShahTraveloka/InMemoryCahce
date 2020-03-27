@@ -1,0 +1,15 @@
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/SiloHost.deps.json
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/SiloHost.runtimeconfig.json
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/SiloHost.runtimeconfig.dev.json
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/SiloHost.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/SiloHost.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/HelloWorld.Grains.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/HelloWorld.Grains.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.csprojAssemblyReference.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.AssemblyInfoInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.AssemblyInfo.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.csproj.CopyComplete
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/SiloHost/obj/Debug/netcoreapp2.2/SiloHost.pdb

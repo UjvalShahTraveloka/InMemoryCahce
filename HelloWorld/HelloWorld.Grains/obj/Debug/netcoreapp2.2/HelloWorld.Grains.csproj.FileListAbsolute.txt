@@ -1,0 +1,13 @@
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/bin/Debug/netcoreapp2.2/HelloWorld.Grains.deps.json
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/bin/Debug/netcoreapp2.2/HelloWorld.Grains.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/bin/Debug/netcoreapp2.2/HelloWorld.Grains.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.csprojAssemblyReference.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.csproj.OrleansCodeGenInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.orleans.g.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.AssemblyInfoInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.AssemblyInfo.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.csproj.CopyComplete
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/HelloWorld.Grains/obj/Debug/netcoreapp2.2/HelloWorld.Grains.pdb

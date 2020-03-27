@@ -1,0 +1,13 @@
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/OrleansClient.deps.json
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/OrleansClient.runtimeconfig.json
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/OrleansClient.runtimeconfig.dev.json
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/OrleansClient.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/OrleansClient.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/bin/Debug/netcoreapp2.2/HelloWorld.Interfaces.pdb
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.csprojAssemblyReference.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.AssemblyInfoInputs.cache
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.AssemblyInfo.cs
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.csproj.CopyComplete
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.dll
+/Users/ujval.shah/RiderProjects/HelloWorld/OrleansClient/obj/Debug/netcoreapp2.2/OrleansClient.pdb
